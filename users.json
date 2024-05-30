@@ -1,0 +1,37 @@
+View call: test1.test3-courch.testnet.get_users()
+[
+  {
+    account_id: 'ayoub-elaco.testnet',
+    name: 'Ayoub Amer',
+    username: 'youp',
+    email: 'youp@gmail.com',
+    phone: '',
+    role: 'user',
+    password: '',
+    by_google: false,
+    bio: '',
+    skills: [],
+    certifications: [],
+    education: [],
+    picture: '/default-student.png',
+    created_at: 1713460823299,
+    updated_at: 1713460823299
+  },
+  {
+    account_id: 'hiba-test.testnet',
+    name: 'Hiba Boulifa',
+    username: 'hiba',
+    email: 'hiba@gmail.com',
+    phone: '',
+    role: 'user',
+    password: '',
+    by_google: false,
+    bio: '',
+    skills: [],
+    certifications: [],
+    education: [],
+    picture: '/default-student.png',
+    created_at: 1713463077040,
+    updated_at: 1713463077040
+  }
+]
